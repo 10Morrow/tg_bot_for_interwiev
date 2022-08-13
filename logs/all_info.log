@@ -1,0 +1,188 @@
+2022-08-13 17:50:02,509 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 17:55:07,168 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 17:55:22,286 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 19:48:33,239 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 19:49:01,766 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 19:49:05,834 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 19:54:44,228 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 19:54:47,779 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 19:56:58,378 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 19:57:02,475 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 19:57:08,458 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 19:58:00,690 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 19:59:02,178 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 19:59:05,919 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 20:04:41,467 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 20:04:45,193 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 20:05:34,560 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 20:05:37,946 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 20:06:02,883 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 20:06:06,109 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 20:06:48,326 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 20:08:24,810 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 20:09:38,761 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 20:21:16,911 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 20:25:27,699 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 20:25:34,355 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 20:28:44,251 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 20:28:48,534 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 20:30:38,803 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 20:30:42,549 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 20:32:20,893 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 20:32:24,069 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 20:36:46,149 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 20:36:49,361 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 20:36:55,870 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 20:40:56,875 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 20:44:27,465 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 20:44:31,379 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 20:47:46,330 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 20:47:49,496 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 20:49:11,670 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 20:49:14,770 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 20:50:10,750 - [INFO] - app.handlers.client - (client.py).check_payment_status(28) - ['WhiteApfel-PyQiwiP2P-39855942-136', '1']
+2022-08-13 20:52:44,371 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 20:52:47,518 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 20:53:01,934 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 20:53:04,938 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 20:55:30,971 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 20:55:33,980 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 21:51:34,712 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:09:47,769 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:10:34,945 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:10:39,065 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:12:05,755 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:12:10,622 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:13:17,533 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:13:21,832 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:15:38,052 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:15:42,396 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:15:43,909 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:16:21,300 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:17:29,998 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:17:34,504 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:28:34,258 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:28:55,237 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:29:24,410 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:29:29,390 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:30:51,897 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:33:30,476 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:34:02,282 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:34:06,620 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:35:12,041 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:35:16,634 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:37:24,428 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:37:28,907 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:45:43,918 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:45:59,059 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:46:07,957 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:46:25,938 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:46:33,867 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:46:49,769 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:47:14,535 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:50:02,184 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:50:27,684 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:50:31,601 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:50:41,971 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:53:45,581 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:57:05,528 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:57:09,461 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:57:54,186 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 22:58:10,373 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 22:58:17,873 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:00:01,269 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:00:05,014 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:00:26,886 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:01:04,337 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:01:08,404 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:01:12,255 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:01:32,294 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:01:59,996 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:02:04,176 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:02:15,024 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:02:34,533 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:10:54,053 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:10:57,932 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:13:15,332 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:13:19,320 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:14:49,602 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:14:56,764 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:17:11,790 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:17:16,032 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:17:28,368 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:17:32,666 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:17:37,904 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:18:52,714 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:19:10,966 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:19:14,729 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:19:16,185 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:19:28,796 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:19:33,878 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:19:49,641 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:20:23,247 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:20:28,496 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:21:59,973 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:22:03,998 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:38:23,782 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:38:46,527 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:39:32,849 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:41:25,186 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:41:52,563 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:41:56,822 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:42:16,980 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:42:20,795 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:42:57,763 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:44:29,899 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:45:38,090 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:47:16,796 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:47:55,517 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:47:59,852 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:51:10,454 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:51:14,610 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:51:30,730 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:51:59,838 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:52:11,802 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:52:35,888 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:52:48,986 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:55:31,971 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-13 23:55:39,933 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-13 23:56:59,312 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-14 00:02:18,283 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-14 00:02:22,429 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-14 00:03:54,303 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-14 00:03:58,145 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-14 00:04:16,592 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-14 00:04:21,589 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-14 00:06:36,872 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-14 00:06:40,833 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-14 00:06:56,845 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-14 00:07:00,689 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-14 00:07:29,249 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-14 00:07:33,365 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-14 00:07:38,237 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-14 00:07:50,650 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-14 00:07:53,649 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-14 00:08:08,381 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-14 00:08:20,864 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-14 00:08:35,384 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-14 00:09:28,699 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-14 00:09:56,759 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-14 00:11:11,007 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-14 00:11:15,747 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-14 00:11:49,280 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-14 00:11:53,541 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-14 00:12:03,831 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-14 00:14:14,520 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-14 00:14:17,155 - [INFO] - app.handlers.admin - (admin.py).admin_menu_handler(39) - File must be non-empty
+2022-08-14 00:27:34,327 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-14 00:27:38,561 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-14 00:27:46,488 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-14 00:28:34,982 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-14 00:29:29,210 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-14 00:29:33,518 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-14 00:30:14,663 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-14 00:38:58,853 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-14 00:40:32,227 - [INFO] - app.handlers.client - (client.py).check_payment_status(31) - ['WhiteApfel-PyQiwiP2P-41234899-984', '5']
+2022-08-14 00:41:59,651 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
+2022-08-14 00:42:04,235 - [INFO] - app.bot - (bot.py).on_startup(9) - the bot started working
+2022-08-14 00:44:41,214 - [INFO] - app.bot - (bot.py).on_shutdown(13) - bot close
